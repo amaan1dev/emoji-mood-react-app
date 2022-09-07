@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.heading1 {
+  font-size: 28px;
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+.heading2 {
+  font-size: 17px;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+input {
+  padding: 0.5rem;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  font-size: x-large;
+}
+
+.feeling-output-text {
+  margin-top: 0.6rem;
+  font-size: 34px;
+  font-weight: bold;
+}
